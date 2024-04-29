@@ -22,7 +22,7 @@ export default function Home() {
       <section className="grid grid-cols-1 lg:grid-cols-[2fr_1fr] gap-4 mb-4">
         <div className="flex flex-col gap-16 h-[30rem] bg-[url('/gradient-bg.jpg')] bg-cover p-10 rounded-3xl">
           <h1 className="text-4xl font-semibold">
-            Greetings! I'm{" "}
+            Greetings! I am{" "}
             <span className="bg-gradient-to-r from-blue-400 via-green-400 to-indigo-400 text-transparent bg-clip-text">
               Mohammed Anwar-Sadat Mamudu
             </span>{" "}
@@ -31,7 +31,7 @@ export default function Home() {
           </h1>
           <p className="flex-1">
             I weave code to create seamless digital experiences, blending
-            front-end finesse with back-end wizardry. Let's build something
+            front-end finesse with back-end wizardry. Let us build something
             awesome together! #WebDeveloper #FullStackJourney
           </p>
           <div className="flex flex-col lg:flex-row items-center gap-4 justify-self-end">
