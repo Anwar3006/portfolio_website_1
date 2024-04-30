@@ -20,7 +20,7 @@ export default function Home() {
       <Navbar />
 
       <section className="grid grid-cols-1 lg:grid-cols-[2fr_1fr] gap-4 mb-4">
-        <div className="flex flex-col gap-16 h-[30rem] bg-[url('/gradient-bg.jpg')] bg-cover p-10 rounded-3xl">
+        <div className="flex flex-col gap-16 md:h-[30rem] h-auto bg-[url('/gradient-bg.jpg')] bg-cover p-10 rounded-3xl">
           <h1 className="text-4xl font-semibold">
             Greetings! I&apos;m{" "}
             <span className="bg-gradient-to-r from-blue-400 via-green-400 to-indigo-400 text-transparent bg-clip-text">
