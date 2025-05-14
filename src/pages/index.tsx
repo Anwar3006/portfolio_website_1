@@ -26,7 +26,7 @@ export default function Home() {
             <span className="bg-gradient-to-r from-blue-400 via-green-400 to-indigo-400 text-transparent bg-clip-text">
               Mohammed Anwar-Sadat Mamudu
             </span>{" "}
-            ,a budding full-stack developer with 13 months of hands-on
+            ,a budding full-stack developer with more than 3 years of hands-on
             experience.
           </h1>
           <p className="flex-1">
